@@ -1,8 +1,5 @@
 # SmartPill Ingestible Sensor
 
-## Authors
-Josh Bardwick, Noah Hathout, Cole Knutsen, Trieu Tran
-
 ## Date
 September 20, 2024
 
@@ -10,7 +7,7 @@ September 20, 2024
 
 ## Overview
 
-The SmartPill project involves the design and implementation of an ingestible device capable of capturing, logging, and transmitting biometric data as it passes through the human body. This proof-of-concept focuses on collecting sensor data periodically, converting it into engineering units, and displaying the results on a console interface.
+The SmartPill project involves the design and implementation of an ingestible device capable of capturing, logging, and transmitting biometric data as it passes through the human body. This proof-of-concept focuses on collecting sensor data periodically, converting it into engineering units, and displaying the results on a console interface. Currently this is a rough implementation on a breadboard.
 
 ### Key Functionalities
 
